@@ -1,0 +1,47 @@
+body,
+.Check-Area,
+#root {
+  width: 100vw;
+  height: 100vh;
+  background-color: #032735;
+  color: rgb(0, 0, 0);
+  font-family: "Oswald", sans-serif;
+}
+.Check-Area,
+.textpage,
+.finish_page {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  color: black;
+}
+.landing {
+  font-family: "Oswald", sans-serif;
+  background-color: #c0cace;
+  color: rgb(0, 0, 0) !important;
+  padding: 30px;
+}
+#root {
+  display: inline;
+}
+/* .textpage {
+  display: flex;
+  align-content: center;
+} */
+.row {
+  width: 80vw;
+  height: 60vh;
+  padding: 50px;
+  background-color: #c0cace;
+  color: rgb(0, 0, 0);
+}
+.finish {
+  width: 55vw;
+  height: 70vh;
+  padding: 50px;
+  background-color: #c0cace;
+  color: rgb(0, 0, 0);
+}
